@@ -1,8 +1,8 @@
 class Members 
   def initialize(name, age, instrument)
     @name = name
-      @age = age
-      @instrument = instrument
+    @age = age
+    @instrument = instrument
   end
 
   def play
