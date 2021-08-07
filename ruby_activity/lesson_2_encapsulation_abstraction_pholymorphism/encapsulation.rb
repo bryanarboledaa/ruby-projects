@@ -6,7 +6,6 @@ class Encapsulation
   end
 
   def total
-    puts @item
     @price * @quantity
   end
 end
