@@ -10,4 +10,4 @@ class Converter
 end
 
 con = Converter.new(2)
-puts con.convert
+puts con.convert 
